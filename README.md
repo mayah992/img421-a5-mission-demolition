@@ -11,3 +11,5 @@ ball texture: https://i.etsystatic.com/8637788/r/il/bc45f7/1612668683/il_570xN.1
 Castle Hit: https://pixabay.com/sound-effects/film-special-effects-single-bowling-pin-knock-97302/
 
 Slingshot Sound: https://pixabay.com/sound-effects/film-special-effects-rubber-band-2-447370/
+
+Goal: https://pixabay.com/sound-effects/film-special-effects-the-correct-answer-33-183620/
