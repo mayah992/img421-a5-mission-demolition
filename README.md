@@ -15,3 +15,5 @@ Slingshot Sound: https://pixabay.com/sound-effects/film-special-effects-rubber-b
 Goal: https://pixabay.com/sound-effects/film-special-effects-the-correct-answer-33-183620/
 
 GOOD JOB GIF: https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG83eGlteDd5amUxaHhtbWpnYjJxMGZyNzhuOXMzeTl1ejZ3MWM0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4yLQc3IjMJT25DroRg/giphy.gif
+
+Obstacle Hit: https://pixabay.com/sound-effects/film-special-effects-hitwang-357098/
