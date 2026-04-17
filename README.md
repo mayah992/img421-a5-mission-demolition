@@ -16,6 +16,12 @@ Goal: https://pixabay.com/sound-effects/film-special-effects-the-correct-answer-
 
 GOOD JOB GIF: https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG83eGlteDd5amUxaHhtbWpnYjJxMGZyNzhuOXMzeTl1ejZ3MWM0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4yLQc3IjMJT25DroRg/giphy.gif
 
+SlingshotDamage: https://pixabay.com/sound-effects/film-special-effects-hit-tree-01-266310/
+
 Obstacle Hit: https://pixabay.com/sound-effects/film-special-effects-hitwang-357098/
 
 Mode Completed: https://pixabay.com/sound-effects/people-crowd-applause-113728/
+
+Clown Hit: https://pixabay.com/sound-effects/film-special-effects-baby-squeak-toy-2-183912/
+
+Clown Laugh: https://pixabay.com/sound-effects/horror-creepy-laugh-2-401714/
