@@ -1,5 +1,14 @@
 # Carnival!!
-A Unity game created for class IMG421 3D-Game Engines at NAU built off of Mission Demolitions Demo.
+A Unity game created for class IMG421 3D-Game Engines at NAU built off of Mission Demolitions Demo. A game testing players coordination through a simulated carnival game of "throw the ball at the target." Three different levels of difficulty and mechanics: Easy, Medium, and Hard.
+
+### Easy Mode
+Player is equipped with a HUGE ball that is more powerful, immediately crushing through the obstacles.
+
+### Medium Mode
+Added moving obstacle that requires the player to find the perfect timing to pass.
+
+### Hard Mode
+Player now has to deal with an EVIL CLOWN that deals damage to the Player. Fend off the evil clowns while still trying to destroy the obstacle. 0 health results in a GAME OVER.
 
 ## Controls
 Pull back and let go of the slingshot to shoot a projectile.
@@ -15,32 +24,37 @@ Pull back and let go of the slingshot to shoot a projectile.
 
 ## Credits
 
-main menu background: https://partytimerental.com/wp-content/uploads/2019/08/18-08-28-Carnival.jpg
+### Textures
+Main Menu Background: https://partytimerental.com/wp-content/uploads/2019/08/18-08-28-Carnival.jpg
 
-game background music: https://pixabay.com/music/circus-the-circus-505354/
-
-circus music: https://pixabay.com/music/circus-circus-music-loop-362929/
-
-ball texture: https://i.etsystatic.com/8637788/r/il/bc45f7/1612668683/il_570xN.1612668683_nu6e.jpg
-
-Castle Hit: https://pixabay.com/sound-effects/film-special-effects-single-bowling-pin-knock-97302/
-
-Slingshot Sound: https://pixabay.com/sound-effects/film-special-effects-rubber-band-2-447370/
-
-Goal: https://pixabay.com/sound-effects/film-special-effects-the-correct-answer-33-183620/
+Projectile Texture: https://i.etsystatic.com/8637788/r/il/bc45f7/1612668683/il_570xN.1612668683_nu6e.jpg
 
 GOOD JOB GIF: https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG83eGlteDd5amUxaHhtbWpnYjJxMGZyNzhuOXMzeTl1ejZ3MWM0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4yLQc3IjMJT25DroRg/giphy.gif
 
-SlingshotDamage: https://pixabay.com/sound-effects/film-special-effects-hit-tree-01-266310/
+### 3D Models
+Evil Clown: https://assetstore.unity.com/packages/3d/true-horror-clown-pbr-49389
+
+### Music
+Main Menu: https://pixabay.com/music/circus-circus-music-loop-362929/
+
+Game: https://pixabay.com/music/circus-the-circus-505354/
+
+### Sound Effects
+Slingshot Sound: https://pixabay.com/sound-effects/film-special-effects-rubber-band-2-447370/
+
+Castle Hit: https://pixabay.com/sound-effects/film-special-effects-single-bowling-pin-knock-97302/
+
+Goal Entered: https://pixabay.com/sound-effects/film-special-effects-the-correct-answer-33-183620/
 
 Obstacle Hit: https://pixabay.com/sound-effects/film-special-effects-hitwang-357098/
 
-Mode Completed: https://pixabay.com/sound-effects/people-crowd-applause-113728/
+Clown Laugh: https://pixabay.com/sound-effects/horror-creepy-laugh-2-401714/
 
 Clown Hit: https://pixabay.com/sound-effects/film-special-effects-baby-squeak-toy-2-183912/
 
-Clown Laugh: https://pixabay.com/sound-effects/horror-creepy-laugh-2-401714/
+SlingshotDamage: https://pixabay.com/sound-effects/film-special-effects-hit-tree-01-266310/
 
-Defeat: https://pixabay.com/sound-effects/film-special-effects-losing-horn-313723/
+Mode Success (Applause): https://pixabay.com/sound-effects/people-crowd-applause-113728/
 
-Clown Enemy 3D model: https://assetstore.unity.com/packages/3d/true-horror-clown-pbr-49389
+Defeat (Sad Horn): https://pixabay.com/sound-effects/film-special-effects-losing-horn-313723/
+
