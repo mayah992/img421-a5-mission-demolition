@@ -25,3 +25,5 @@ Mode Completed: https://pixabay.com/sound-effects/people-crowd-applause-113728/
 Clown Hit: https://pixabay.com/sound-effects/film-special-effects-baby-squeak-toy-2-183912/
 
 Clown Laugh: https://pixabay.com/sound-effects/horror-creepy-laugh-2-401714/
+
+Defeat: https://pixabay.com/sound-effects/film-special-effects-losing-horn-313723/
