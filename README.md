@@ -1,4 +1,19 @@
-# img421-a5-mission-demolition
+# Carnival!!
+A Unity game created for class IMG421 3D-Game Engines at NAU built off of Mission Demolitions Demo.
+
+## Controls
+Pull back and let go of the slingshot to shoot a projectile.
+
+## Extra Credit
+(1) Add Sound effects: Found projectile collisions and enemy sound effects.
+
+(1?) Redo the 3D models: Added texture to the ball to fit the theme, added a 3D model from unity packets for clown enemy.
+
+(.5) Add Music: Main Menu and Title Screen all have background music.
+ 
+(1) Stylized itch.io
+
+## Credits
 
 main menu background: https://partytimerental.com/wp-content/uploads/2019/08/18-08-28-Carnival.jpg
 
@@ -27,3 +42,5 @@ Clown Hit: https://pixabay.com/sound-effects/film-special-effects-baby-squeak-to
 Clown Laugh: https://pixabay.com/sound-effects/horror-creepy-laugh-2-401714/
 
 Defeat: https://pixabay.com/sound-effects/film-special-effects-losing-horn-313723/
+
+Clown Enemy 3D model: https://assetstore.unity.com/packages/3d/true-horror-clown-pbr-49389
