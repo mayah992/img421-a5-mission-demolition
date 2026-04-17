@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/EasyMode.unity
+    guid: b8f6fdbad2bb2e040a322d33e969b6e4
+  - enabled: 1
+    path: Assets/Scenes/MediumMode.unity
+    guid: 8bbd14acc4685f145a023aaa7301e8a9
+  - enabled: 1
+    path: Assets/Scenes/HardMode.unity
+    guid: 23c9c822f5e899f45b2247b0e2c56621
+  - enabled: 1
+    path: Assets/Scenes/GameComplete.unity
+    guid: d9ab12e06d4509d44857cbfb9c0c95c0
+  - enabled: 1
+    path: Assets/Scenes/Defeat.unity
+    guid: 6645fdce48551e944984aaa41f9bf79d
+  m_configObjects: {}
